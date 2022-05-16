@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadeu-p&label=Profile%20views&color=0e75b6&style=flat" alt="tadeu-p" /> </p>
 
-- 🌱 I’m currently learning **linux shell/bash script, HTML, CSS, Information technology governance (COBIT and ITIL)**
-
-- 🤝 I’m looking for help with **what I can.** =D
+- 🌱 I’m currently learning **linux shell/bash script, Information technology governance (COBIT and ITIL)**
 
 - 📫 How to reach me **tadeu_up@hotmail.com**
 
