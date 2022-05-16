@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadeu Pagliarini</h1>
-<h3 align="center">A beginner frontend learner from Brazil.</h3>
+<h3 align="center">An IT learner from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadeu-p&label=Profile%20views&color=0e75b6&style=flat" alt="tadeu-p" /> </p>
 
