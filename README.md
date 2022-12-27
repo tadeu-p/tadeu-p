@@ -10,7 +10,7 @@
 <a href="https://twitter.com/tadeu_up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tadeu_up" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tadeu-pagliarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeu-pagliarini" height="30" width="40" /></a>
 <a href="https://fb.com/tad3eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tad3eu" height="30" width="40" /></a>
-<a href="https://instagram.com/tadeu_dr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadeu_dr" height="30" width="40" /></a>
+<a href="https://instagram.com/tadeu.pgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadeu.pgl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
